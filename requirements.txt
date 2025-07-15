@@ -1,0 +1,10 @@
+python-dotenv
+Flask
+Flask-Cors
+langchain-google-genai
+mysql-connector-python
+langchain
+SpeechRecognition
+gtts
+playsound 
+pydub
